@@ -1,0 +1,1 @@
+  Este é um jogo de RPG simples desenvolvido em Java, com foco em narrativa interativa. O jogador faz escolhas ao longo da história, que impactam o desenrolar dos eventos e os resultados finais. O projeto foi criado com o objetivo de explorar conceitos básicos de programação orientada a objetos, estruturas de controle e manipulação de entrada e saída em Java.
